@@ -1,0 +1,6 @@
+#run -> pip3 install -r requirements.txt
+requests
+bs4
+json 
+pysocks 
+ttkthemes 
